@@ -1,18 +1,18 @@
 ### Hello 👋, i'm Rodolfho, a Frontend developer with 4 years of experience, most of then working with Angular
 
-- 🔭 I’m currently working on some projects using Angular, Firebase, TailwindCSS
+- 🔭 I’m currently working on some private projects using Angular, Firebase, TailwindCSS
 - 🌱 learning SQL(PostgreSQL)
 - 👯 I’m open for a job, if you need an Angular developer, contact me
 - ⚡ Fun fact: My favorite hobbie is to make origami
 
 ##
-
+<!--
 <div>
   <a href="https://github.com/Rodolfho7"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfho7&show_icons=true&theme=radical" alt="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfho7&theme=radical" alt="">
 </div>
-
+-->
 ##
 
 <div style="display: inline-block;">
@@ -28,7 +28,6 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
 ##
