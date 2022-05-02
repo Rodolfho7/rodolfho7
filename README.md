@@ -1,4 +1,4 @@
-### Hello 👋, i'm Rodolfho, a Frontend developer with 4 years of experience, most of then working with Angular
+### Hello 👋, my name is Rodolfho, i'm a Frontend developer with 4 years of experience, most of then working with Angular. I'm from Brazil
 
 - 🔭 I’m currently working on some private projects using Angular, Firebase, TailwindCSS
 - 🌱 learning SQL(PostgreSQL)
@@ -6,14 +6,8 @@
 - ⚡ Fun fact: My favorite hobbie is to make origami
 
 ##
-<!--
-<div>
-  <a href="https://github.com/Rodolfho7"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfho7&show_icons=true&theme=radical" alt="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfho7&theme=radical" alt="">
-</div>
--->
-##
+
+### These are some of the major technologies that a i use or have worked:
 
 <div style="display: inline-block;">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -31,6 +25,8 @@
 </div>
 
 ##
+
+### Here are my linkedin and email
 
 <div>
   <a href="https://www.linkedin.com/in/rodolfhoazevedo/" target="_blank">
