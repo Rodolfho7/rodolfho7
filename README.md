@@ -1,8 +1,6 @@
-### Hello 👋, my name is Rodolfho, i'm a Frontend developer with 4 years of experience, most of then working with Angular. I'm from Brazil
+### Hello 👋, my name is Rodolfho, i'm a Frontend developer with 6 years of experience, most of then working with Angular and React. I'm from Brazil
 
-- 🔭 I’m currently working on some private projects using Angular, Firebase, TailwindCSS
-- 🌱 learning SQL(PostgreSQL)
-- 👯 I’m open for a job, if you need an Angular developer, contact me
+- 🌱 learning SQL and Dotnet(ASPNet)
 - ⚡ Fun fact: My favorite hobbie is to make origami
 
 ##
